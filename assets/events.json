@@ -1,0 +1,20 @@
+[
+	{
+		"title": "Hackops - 1",
+		"date": "30 Ekim 2025",
+		"description": "Network ve Linux’un temellerini öğren, siber güvenliğin yapı taşlarını keşfet.",
+		"image": "https://images.unsplash.com/photo-1629654297299-c8506221ca97"
+	},
+	{
+		"title": "Hackops - 2",
+		"date": "6 Kasım 2025",
+		"description": "Web zafiyetlerini keşfet, güvenli kodlama ve etik hacking temellerini öğren.",
+		"image": "https://images.unsplash.com/photo-1597733336794-12d05021d510"
+	},
+	{
+		"title": "Hackops - 3",
+		"date": "13 Kasım 2025",
+		"description": "Python 101 ile hem kodlamada hem siber güvenlikte ilerliyoruz.",
+		"image": "https://images.unsplash.com/photo-1690683789978-3cf73960d650"
+	}
+]

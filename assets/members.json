@@ -1,0 +1,65 @@
+{
+	"Yönetim Ekibi": [
+		{
+			"name": "Ahmet Faruk Bilgin",
+			"role": "Başkan Yardımcısı"
+		},
+		{
+			"name": "Ahmet Alp Tiftik",
+			"role": "Başkan"
+		},
+		{
+			"name": "Efe Kemal Çakmak",
+			"role": "Teknik Ekip Başkanı"
+		},
+		{
+			"name": "Hira Nur Baytok",
+			"role": "Etkinlik & Organizasyon Ekibi Başkanı"
+		},
+		{
+			"name": "Mehmet Emin Çevik",
+			"role": "Etkinlik & Organizasyon Ekibi Başkanı"
+		}
+	],
+
+	"Teknik Ekip": [
+		{
+			"name": "Azizhan Kaya",
+			"role": "Teknik Ekip Üyesi"
+		},
+		{
+			"name": "Efe Kemal Çakmak",
+			"role": "Teknik Ekip Başkanı"
+		},
+		{
+			"name": "Mert Kurthasan",
+			"role": "Teknik Ekip Üyesi"
+		},
+		{
+			"name": "Muhammet Dursun Gönültaş",
+			"role": "Teknik Ekip Üyesi"
+		}
+	],
+
+	"Etkinlik & Organizasyon Ekibi": [
+		{
+			"name": "Mehmet Emin Çevik",
+			"role": "Komite Başkanı"
+		},
+		{
+			"name": "Şule Yılmaz",
+			"role": "Komite Üyesi"
+		}
+	],
+
+	"Sosyal Medya & Tasarım Ekibi": [
+		{
+			"name": "Hira Nur Baytok",
+			"role": "Komite Başkanı"
+		},
+		{
+			"name": "Beyza Atalay",
+			"role": "Komite Üyesi"
+		}
+	]
+}
