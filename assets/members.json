@@ -14,7 +14,7 @@
 		},
 		{
 			"name": "Hira Nur Baytok",
-			"role": "Etkinlik & Organizasyon Ekibi Başkanı"
+			"role": "Sosyal Medya & Tasarım Ekibi Başkanı"
 		},
 		{
 			"name": "Mehmet Emin Çevik",
@@ -44,22 +44,22 @@
 	"Etkinlik & Organizasyon Ekibi": [
 		{
 			"name": "Mehmet Emin Çevik",
-			"role": "Komite Başkanı"
+			"role": "Ekip Başkanı"
 		},
 		{
 			"name": "Şule Yılmaz",
-			"role": "Komite Üyesi"
+			"role": "Ekip Üyesi"
 		}
 	],
 
 	"Sosyal Medya & Tasarım Ekibi": [
 		{
 			"name": "Hira Nur Baytok",
-			"role": "Komite Başkanı"
+			"role": "Ekip Başkanı"
 		},
 		{
 			"name": "Beyza Atalay",
-			"role": "Komite Üyesi"
+			"role": "Ekip Üyesi"
 		}
 	]
 }
