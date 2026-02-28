@@ -1,7 +1,7 @@
 <template>
 	<section id="events">
 		<div class="section-container">
-			<h2 class="section-title">Yaklaşan <span>Etkinlikler</span></h2>
+			<h2 class="section-title">Yapılan <span>Etkinlikler</span></h2>
 			<div class="events-grid">
 				<div v-for="event in events" :key="event.id" class="event-card">
 					<div class="card-image-container">
@@ -34,7 +34,7 @@
 	}
 	.events-grid {
 		display: grid;
-		grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+		grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
 		gap: 2rem;
 	}
 	.event-card {
@@ -44,7 +44,9 @@
 		overflow: hidden;
 		display: flex;
 		flex-direction: column;
-		transition: transform 0.3s ease, box-shadow 0.3s ease;
+		transition:
+			transform 0.3s ease,
+			box-shadow 0.3s ease;
 	}
 	.event-card:hover {
 		transform: translateY(-10px);
@@ -53,9 +55,10 @@
 	}
 	.card-image-container img {
 		width: 100%;
-		height: 200px;
+		height: 250px;
 		object-fit: cover;
 		filter: grayscale(30%);
+		background-color: #000;
 		transition: filter 0.3s ease;
 	}
 	.event-card:hover .card-image-container img {

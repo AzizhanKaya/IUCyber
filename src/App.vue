@@ -151,7 +151,7 @@
 
 	.section-title {
 		font-size: 2.5rem;
-		margin-bottom: 2rem;
+		margin-bottom: 3rem;
 		text-align: center;
 		text-transform: uppercase;
 		letter-spacing: 2px;
